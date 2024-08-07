@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yaseh</h1>
-<h3 align="center">Experienced in working as a Firmware, Embedded Software, and IoT Fullstack Developer. My expertise includes handling Desktop, Mobile, and Web Development projects, and I am highly skilled in designing and modifying hardware devices, determining and modifying operating systems, and integrating main applications that are connected to cloud-based servers.</h3>
-
-- 🌱 I’m currently learning **Rust Framework**
+<h3 align="center">Programmer want to be. </h3>
 
 - 📫 How to reach me **achmadayas@gmail.com**
 
