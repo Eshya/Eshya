@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yaseh</h1>
-<h3 align="center">Programmer want to be. </h3>
+<h3 align="center">Programmer Wanna Be </h3>
 
 - 📫 How to reach me **achmadayas@gmail.com**
 
